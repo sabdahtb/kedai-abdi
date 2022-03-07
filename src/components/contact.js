@@ -20,7 +20,7 @@ const Kontak = () => {
         </a>
 
         <a
-          href="https://bit.ly/3IQH01e"
+          href="https://bit.ly/3HN1TZN"
           target="_blank"
           rel="noopener noreferrer"
         >
