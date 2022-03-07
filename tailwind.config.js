@@ -5,6 +5,7 @@ module.exports = {
       colors: {
         biru: "#6B949A",
         putih: "#f7f7f7",
+        abu: "#cfcfcf",
       },
 
       fontFamily: {
